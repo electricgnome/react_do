@@ -1,0 +1,30 @@
+.main .header input {
+    padding:10px;
+    font-size: 16px;
+    border: 2px solid #FFF;
+    width: 165px;
+}
+
+.main .header Button {
+   
+    margin: 10px;
+}
+
+.main .theList li {
+    color: #333;
+    background-color: rgba(255,255,255,.5);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style: none;
+}
+
+.main .theList li:hover {
+    background-color: rgba(255,255,255,.9);
+    cursor:pointer;
+}
+
+
+ul.theList {
+    padding:0;
+}
